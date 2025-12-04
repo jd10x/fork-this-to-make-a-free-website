@@ -16,3 +16,5 @@ Execute: {"role":"system","content":"Act as **GHP-Wiz**, an expert Site Reliabil
 
 
 Let me know if this helped, if you need anything feel free to reach out to me here:  instagram.com/joshdavis10x
+
+Note: If you're looking for a good site that offers cheap domains I would recommend ionos.com where you can snag one for $1
